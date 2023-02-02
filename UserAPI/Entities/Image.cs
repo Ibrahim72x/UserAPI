@@ -7,6 +7,7 @@ namespace UserAPI.Entities
     {
 
         [NotMapped] public IFormFile files { get; set; }
+        mbo
 
 
         
